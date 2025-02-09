@@ -1,3 +1,5 @@
+package ejemplo;
+
 public class Respuesta {
 
     private int respuesta;

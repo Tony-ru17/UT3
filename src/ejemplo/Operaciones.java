@@ -1,3 +1,5 @@
+package ejemplo;
+
 import java.util.Scanner;
 public class Operaciones {
     private static final int TAM=tamanyo(10);

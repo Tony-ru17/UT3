@@ -1,3 +1,5 @@
+package ejemplo;
+
 public class Operador {
     private char operador;
     public Operador(){
